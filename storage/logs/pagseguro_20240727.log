@@ -1,0 +1,52 @@
+
+27/07/2024 21:02:26 PagSeguro.Session[info]: Begin
+27/07/2024 21:02:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:02:27 PagSeguro.Session[info]: Session ID: 6cb69374d13f4b019bc956949f76eb04
+27/07/2024 21:05:49 PagSeguro.Session[info]: Begin
+27/07/2024 21:05:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:05:50 PagSeguro.Session[info]: Session ID: acedc3e7cced47f69eec340c58d56d92
+27/07/2024 21:07:02 PagSeguro.Session[info]: Begin
+27/07/2024 21:07:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:07:03 PagSeguro.Session[info]: Session ID: 9495a4c5f27048689e39c7910825650e
+27/07/2024 21:08:30 PagSeguro.Session[info]: Begin
+27/07/2024 21:08:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:08:31 PagSeguro.Session[info]: Session ID: 5b351ccb4c06432599cee761bb58b9ce
+27/07/2024 21:10:29 PagSeguro.Session[info]: Begin
+27/07/2024 21:10:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:10:30 PagSeguro.Session[info]: Session ID: b10569415a64440c9a0598949bb8048e
+27/07/2024 21:10:35 PagSeguro.Session[info]: Begin
+27/07/2024 21:10:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:10:36 PagSeguro.Session[info]: Session ID: dd4d83aea69645fcabd5a3c4113814a6
+27/07/2024 21:12:11 PagSeguro.Session[info]: Begin
+27/07/2024 21:12:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:12:12 PagSeguro.Session[info]: Session ID: 9f82e10eed274992b6611cabac61bbf7
+27/07/2024 21:13:20 PagSeguro.Session[info]: Begin
+27/07/2024 21:13:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:13:21 PagSeguro.Session[info]: Session ID: 4e8aed0fb9a84a7ca4d80574bc55401b
+27/07/2024 21:15:20 PagSeguro.Session[info]: Begin
+27/07/2024 21:15:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:15:22 PagSeguro.Session[info]: Session ID: 5d62bded440c43808aba2765fa18babe
+27/07/2024 21:22:54 PagSeguro.Session[info]: Begin
+27/07/2024 21:22:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:22:55 PagSeguro.Session[info]: Session ID: 991a0a67cece440ab2f5a71bf8237955
+27/07/2024 21:25:17 PagSeguro.Session[info]: Begin
+27/07/2024 21:25:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:25:19 PagSeguro.Session[info]: Session ID: fe745589c72c47ad8b7035d676d828ca
+27/07/2024 21:29:16 PagSeguro.Session[info]: Begin
+27/07/2024 21:29:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:29:17 PagSeguro.Session[info]: Session ID: a1b90c9c4cb14d8ba26f8174a5f41005
+27/07/2024 21:29:39 PagSeguro.Session[info]: Begin
+27/07/2024 21:29:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:29:40 PagSeguro.Session[info]: Session ID: adf30df10dd14234b08b246f40b4df69
+27/07/2024 21:34:46 PagSeguro.Session[info]: Begin
+27/07/2024 21:34:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:34:48 PagSeguro.Session[info]: Session ID: 92703ea82979475480c3ed64fc94af8e
+27/07/2024 21:35:11 PagSeguro.Session[info]: Begin
+27/07/2024 21:35:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:35:12 PagSeguro.Session[info]: Session ID: 3abe112577954a009b1eccd4d7226b55
+27/07/2024 21:35:43 PagSeguro.Session[info]: Begin
+27/07/2024 21:35:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:35:44 PagSeguro.Session[info]: Session ID: be28a58b21f44727b792b042e7921082
+27/07/2024 21:36:08 PagSeguro.Session[info]: Begin
+27/07/2024 21:36:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=professormarciodutra%40gmail.com&token=3CBC7D1E82FA42CC9B0595CD5E27E159
+27/07/2024 21:36:11 PagSeguro.Session[info]: Session ID: ffdbe789583f4cd3bb9b29df6b6a72cc
